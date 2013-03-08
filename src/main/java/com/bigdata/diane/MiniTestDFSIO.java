@@ -46,7 +46,7 @@ import org.junit.Test;
  * Each file is accessed in a separate map task.
  * <p>
  * The reducer collects the following statistics:
- * <ul>
+ * <ul>                     
  * <li>number of tasks completed</li>
  * <li>number of bytes written/read</li>
  * <li>execution time</li>

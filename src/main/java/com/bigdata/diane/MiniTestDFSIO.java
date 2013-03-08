@@ -80,6 +80,7 @@ public class MiniTestDFSIO extends Configured implements Tool{
 	  private static Path WRITE_DIR = new Path(TEST_ROOT_DIR, "io_write");
 	  private static Path DATA_DIR = new Path(TEST_ROOT_DIR, "io_data");
 	  static{
+		    System.out.println("Hey look its diane's progream!!!!!!!!!");
 		    Configuration.addDefaultResource("hdfs-default.xml");
 		    Configuration.addDefaultResource("hdfs-site.xml");
 		  }
@@ -314,6 +315,16 @@ public class MiniTestDFSIO extends Configured implements Tool{
 		    int nrFiles = 1;
 		    /* String resFileName = DEFAULT_RES_FILE_NAME; */
 		    boolean isSequential = false;
+		    System.out.println("Hey look its diane's progream!!!!!!!!!");
+		    System.out.println("Hey look its diane's progream!!!!!!!!!");
+		    System.out.println("Hey look its diane's progream!!!!!!!!!");
+		    System.out.println("Hey look its diane's progream!!!!!!!!!");
+		    System.out.println("Hey look its diane's progream!!!!!!!!!");
+		    System.out.println("Hey look its diane's progream!!!!!!!!!");
+		    System.out.println("Hey look its diane's progream!!!!!!!!!");
+		    System.out.println("Hey look its diane's progream!!!!!!!!!");
+		    System.out.println("Hey look its diane's progream!!!!!!!!!");
+		    System.out.println("Hey look its diane's progream!!!!!!!!!");
 		    
 		    String className = MiniTestDFSIO.class.getSimpleName();
 		    String usage = "Usage: " + className + " -read | -write | -clean " +

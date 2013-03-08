@@ -1,4 +1,4 @@
-package org.myorg;
+package com.bigdata.diane;
 import org.apache.hadoop.fs.FileSystem;
 import java.io.IOException;
 import java.net.InetAddress;

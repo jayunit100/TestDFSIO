@@ -1,4 +1,4 @@
-package org.myorg;
+package com.bigdata.diane;
 import java.io.IOException;
 import java.util.Iterator;
 

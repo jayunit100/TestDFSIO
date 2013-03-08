@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package org.myorg;
+package com.bigdata.diane;
 
 import java.io.DataInputStream;
 import java.io.IOException;
